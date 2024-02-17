@@ -1,8 +1,8 @@
 export function myFunction(myNum: number): string {
     if (myNum == 5) {
         return 'true';
-    } else if() {
-        return '';
+    } else if(myNum < 5) {
+        return ';
     }else if (){
         return '';
     }else {
